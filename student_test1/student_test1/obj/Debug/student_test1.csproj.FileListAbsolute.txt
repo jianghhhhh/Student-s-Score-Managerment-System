@@ -1,0 +1,32 @@
+d:\documents\visual studio 2012\Projects\student_test1\student_test1\bin\Debug\student_test1.exe.config
+D:\Documents\Visual Studio 2012\Projects\student_test1\student_test1\obj\Debug\student_test1.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\student_test1\student_test1\obj\Debug\student_test1.login.resources
+D:\Documents\Visual Studio 2012\Projects\student_test1\student_test1\obj\Debug\student_test1.help.resources
+D:\Documents\Visual Studio 2012\Projects\student_test1\student_test1\obj\Debug\student_test1.MDIParent1.resources
+D:\Documents\Visual Studio 2012\Projects\student_test1\student_test1\obj\Debug\student_test1.Properties.Resources.resources
+D:\Documents\Visual Studio 2012\Projects\student_test1\student_test1\obj\Debug\student_test1.csproj.GenerateResource.Cache
+d:\documents\visual studio 2012\Projects\student_test1\student_test1\bin\Debug\student_test1.exe
+d:\documents\visual studio 2012\Projects\student_test1\student_test1\bin\Debug\student_test1.pdb
+d:\documents\visual studio 2012\Projects\student_test1\student_test1\obj\Debug\student_test1.exe
+d:\documents\visual studio 2012\Projects\student_test1\student_test1\obj\Debug\student_test1.pdb
+d:\documents\visual studio 2012\Projects\student_test1\student_test1\obj\Debug\student_test1.开课情况查询.resources
+D:\Documents\Visual Studio 2012\Projects\student_test1\student_test1\obj\Debug\student_test1.学生成绩查询.resources
+D:\Documents\Visual Studio 2012\Projects\student_test1\student_test1\obj\Debug\student_test1.学生信息维护.resources
+D:\Documents\Visual Studio 2012\Projects\student_test1\student_test1\obj\Debug\student_test1.学生成绩维护.resources
+D:\Documents\Visual Studio 2012\Projects\student_test1\student_test1\obj\Debug\student_test1.MDIParent2.resources
+E:\BIG3HIGH\数据库实验报告\江宏晖2014329600186数据库\student_test1\student_test1\bin\Debug\student_test1.exe.config
+E:\BIG3HIGH\数据库实验报告\江宏晖2014329600186数据库\student_test1\student_test1\obj\Debug\student_test1.exe
+E:\BIG3HIGH\数据库实验报告\江宏晖2014329600186数据库\student_test1\student_test1\obj\Debug\student_test1.pdb
+E:\BIG3HIGH\数据库实验报告\江宏晖2014329600186数据库\student_test1\student_test1\bin\Debug\student_test1.exe
+E:\BIG3HIGH\数据库实验报告\江宏晖2014329600186数据库\student_test1\student_test1\bin\Debug\student_test1.pdb
+E:\BIG3HIGH\数据库实验报告\江宏晖2014329600186数据库\student_test1\student_test1\obj\Debug\student_test1.csprojResolveAssemblyReference.cache
+E:\BIG3HIGH\数据库实验报告\江宏晖2014329600186数据库\student_test1\student_test1\obj\Debug\student_test1.login.resources
+E:\BIG3HIGH\数据库实验报告\江宏晖2014329600186数据库\student_test1\student_test1\obj\Debug\student_test1.help.resources
+E:\BIG3HIGH\数据库实验报告\江宏晖2014329600186数据库\student_test1\student_test1\obj\Debug\student_test1.MDIParent1.resources
+E:\BIG3HIGH\数据库实验报告\江宏晖2014329600186数据库\student_test1\student_test1\obj\Debug\student_test1.MDIParent2.resources
+E:\BIG3HIGH\数据库实验报告\江宏晖2014329600186数据库\student_test1\student_test1\obj\Debug\student_test1.Properties.Resources.resources
+E:\BIG3HIGH\数据库实验报告\江宏晖2014329600186数据库\student_test1\student_test1\obj\Debug\student_test1.学生信息维护.resources
+E:\BIG3HIGH\数据库实验报告\江宏晖2014329600186数据库\student_test1\student_test1\obj\Debug\student_test1.学生成绩查询.resources
+E:\BIG3HIGH\数据库实验报告\江宏晖2014329600186数据库\student_test1\student_test1\obj\Debug\student_test1.学生成绩维护.resources
+E:\BIG3HIGH\数据库实验报告\江宏晖2014329600186数据库\student_test1\student_test1\obj\Debug\student_test1.开课情况查询.resources
+E:\BIG3HIGH\数据库实验报告\江宏晖2014329600186数据库\student_test1\student_test1\obj\Debug\student_test1.csproj.GenerateResource.Cache
